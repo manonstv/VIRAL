@@ -1708,7 +1708,18 @@ a.fa-mention {
 }
 
 .post_message {
-  padding: 25px;
+    padding: 25px;
+    overflow: hidden;
+}
+/* Signature messages */
+.signature_div {
+  overflow: hidden;
+}
+
+.signature_div img {
+    object-fit: cover;
+    overflow: hidden;
+    max-width: 100%;
 }
 
 /* REPONSE RAPIDE --- */
