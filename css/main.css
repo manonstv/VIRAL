@@ -1635,6 +1635,11 @@ button.rep-button .rep-nb {
   font-weight: bold;
 }
 
+.post_contact img {
+  width: 24px;
+  height: 24px;
+}
+
 /* Lien "@" de mention */
 a.fa-mention {
   cursor: pointer;
